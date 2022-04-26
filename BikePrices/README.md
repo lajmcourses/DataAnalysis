@@ -6,16 +6,33 @@ BikesOnline tai internetinė dviračių parduotuvė prekiaujanti dviračiais.
 Pardavimų vadybininkas Tomas paruošė dviračių kaininką vasaros sezonui ir dabar
 jis turi pateikti dviračių kainas Europos ir Australijos partneriams.
 
-Tomas paruošė csv failą su dviračių kainomis USD. Jūsų užduotis paskaičiuoti dviračių kainas EUR ir AUD. 
+Tomas paruošė csv failą su dviračių kainomis USD. 
 
-Išsaugokite galutinį dviračių kainininką csv faile.
+**Valiutos kursai:**
+
+USD to EUR:  0.92
+
+USD to AUD: 1.34
+
+**CSV failas:** data/bike_prices_in_usd.csv
+
+### Užduotys:
+
+1) Apskaičiuokite dviračių kainas EUR ir AUD. Išsaugokite naują dviračių kainininką csv faile **pricelist_v01.csv**.
 
 Kaininko įrašas:
 Product_Category,Sub_Category,Product, Price in USD, Price in EUR, Price in AUD
 
+2) Apskaičiuokite dviračių kainas EUR ir AUD. Išsaugokite naują dviračių kainininką csv faile **pricelist_v02.csv**.
 
-CSV failas: data/bike_prices_in_usd.csv
+Kaininko įrašas:
+Product, Sub_Category, Price in USD, Price in EUR, Price in AUD
 
-Valiutos kursai:
-USD to EUR:  0.92
-USD to AUD: 1.34
+3) Apskaičiuokite dviračių kainas EUR ir AUD. Išsaugokite naują dviračių kainininką csv faile **pricelist_v03.csv**.
+
+Kaininko įrašas:
+Model, Color, Size, Sub_Category, Price in USD, Price in EUR, Price in AUD
+
+
+
+
