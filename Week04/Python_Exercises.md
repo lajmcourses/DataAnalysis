@@ -17,7 +17,7 @@ Parašykite programą, kurį funkcijos pagalba įrašys į failą users.csv papi
     John Doe, 22
     Claire Peterson, 34
 
-3) Parašykite programą, kuri atsispausdins kiekvienovartotojo pavarde vardą ir amžių į ekraną
+3) Parašykite programą, kuri atsispausdins kiekvieno vartotojo pavardę, vardą ir amžių į ekraną
 
 Pavyzdys:
 
